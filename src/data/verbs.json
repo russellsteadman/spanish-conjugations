@@ -1,0 +1,43 @@
+{
+  "amar": {
+    "indicative": {
+      "present": ["amo", "amas", "ama", "amamos", "amáis", "aman"],
+      "imperfect": [
+        "amaba",
+        "amabas",
+        "amaba",
+        "amábamos",
+        "amabais",
+        "amaban"
+      ],
+      "preterit": ["amé", "amaste", "amó", "amamos", "amasteis", "amaron"],
+      "future": ["amaré", "amarás", "amará", "amaremos", "amaréis", "amarán"],
+      "presentConditional": [
+        "amaría",
+        "amarías",
+        "amaría",
+        "amaríamos",
+        "amaríais",
+        "amarían"
+      ]
+    },
+    "subjunctive": {
+      "present": ["ame", "ames", "ame", "amemos", "améis", "amen"],
+      "imperfect": [
+        "amara",
+        "amaras",
+        "amara",
+        "amáramos",
+        "amarais",
+        "amaran"
+      ],
+      "future": ["amare", "amares", "amare", "amáremos", "amareis", "amaren"]
+    },
+    "imperative": "ama",
+    "infinitive": "amar",
+    "gerund": "amando",
+    "pastParticiple": "amado",
+    "meaning": "to love",
+    "stem": "a"
+  }
+}
